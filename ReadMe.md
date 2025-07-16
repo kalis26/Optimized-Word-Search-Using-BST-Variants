@@ -4,8 +4,11 @@ This project explores the optimization of word search operations through customi
 
 ## Objective
 - The core idea is to accelerate word searches by distributing them across a triplet of BSTs (BST1, BST2, BST3) based on the initial character of each word. Each tree uses specific rotation strategies to optimize node placement:
+
   1. BST1 prioritizes words starting with 'Y', 'Z', or 'a', rotating them to the root.
+
   2. BST2 places such words mid-path.
+
   3. BST3 handles all other words with root rotations.
  
 ## Features
@@ -18,8 +21,11 @@ This project explores the optimization of word search operations through customi
 
 ## Documentation
 - A detailed report accompanies the project, covering:
+
   * Implementation methodology in Z and C.
+
   * Performance analysis with tables and graphs.
+
   * Conclusions based on empirical data.
  
 ## Insights & Recommandations
