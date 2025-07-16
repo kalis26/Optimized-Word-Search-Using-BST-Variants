@@ -28,6 +28,8 @@ This project explores the optimization of word search operations through customi
 
   * Conclusions based on empirical data.
  
+- To know more about the project, you can access the instructions folder.
+ 
 ## Insights & Recommandations
   
 * The majority of the practical work was done on the Khawarizm II+ AFE IDE using the Z language. The rest of the work was completed on Visual Studio Code using the C language. You can also use CodeBlocks and there won't be any compiling errors, even if there are, I uploaded in this folder the compiled "**TP2.exe**" that you can execute.
