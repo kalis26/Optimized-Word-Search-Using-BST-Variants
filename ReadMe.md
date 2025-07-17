@@ -7,7 +7,7 @@ This project explores the optimization of word search operations through customi
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalis26/Optimized-Word-Search-Using-BST-Variants">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/kalis26/Optimized-Word-Search-Using-BST-Variants">
   <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/kalis26/Optimized-Word-Search-Using-BST-Variants?color=orange">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/kalis26/Optimized-Word-Search-Using-BST-Variants">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/kalis26/Optimized-Word-Search-Using-BST-Variants?link=https%3A%2F%2Fgithub.com%2Fkalis26%2FOptimized-Word-Search-Using-BST-Variants%3Ftab%3DMIT-1-ov-file">
 </div>
 
 ## Objective
