@@ -29,6 +29,35 @@ This project explores the optimization of word search operations through customi
   * Conclusions based on empirical data.
  
 - To know more about the project, you can access the instructions folder.
+
+## System Requirements
+- For the Z part (.alg):
+
+  * [Khawarizm II+ AFE (2023)](https://zegour.esi.dz/Developpement/Seriez/khawarizm_ii_afe.htm)
+ 
+- For the C part:
+
+  * Windows terminal
+  * Standard C libraries
+ 
+## How to run ?
+
+- For the Z part (.alg):
+
+  * Open the **.alg** file in the Khawarizm IDE and execute it.
+  *  ***Note:*** Khawarizm is mainly for editing and writing algorithms, it is not designed for high-quality result presentation.
+
+- For the C part:
+
+  * First, you need to get the full path of the folder the executable is in.
+  * Once you have it, opend the Windows terminal "cmd" (not as administrator) and execute the following commands:
+ 
+```
+cd "insert_path_here"
+```
+```
+TP2.exe
+```
  
 ## Insights & Recommandations
   
