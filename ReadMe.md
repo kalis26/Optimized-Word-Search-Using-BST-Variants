@@ -12,6 +12,10 @@ This project explores the optimization of word search operations through customi
   
 </div>
 
+<div align="center">
+  <img src="demo.gif">
+</div>
+
 ## Objective
 - The core idea is to accelerate word searches by distributing them across a triplet of BSTs (BST1, BST2, BST3) based on the initial character of each word. Each tree uses specific rotation strategies to optimize node placement:
 
