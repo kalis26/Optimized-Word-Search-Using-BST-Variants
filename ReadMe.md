@@ -1,6 +1,14 @@
 # Optimized Word Search Using BST Variants
+
 Second trial work of the module "Algorithmics and dynamic data structures".\
 This project explores the optimization of word search operations through customized Binary Search Tree (BST) structures. Implemented using the educational **Z** programming language with the Khawarizm II+ AFE (2023) - Copyright © Pr D.E ZEGOUR 2023 - IDE, and translated to C for performance and result enhancement, it also employs Python for data visualization and statistical analysis.
+
+<div align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalis26/Optimized-Word-Search-Using-BST-Variants">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/kalis26/Optimized-Word-Search-Using-BST-Variants">
+  <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/kalis26/Optimized-Word-Search-Using-BST-Variants?color=orange">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/kalis26/Optimized-Word-Search-Using-BST-Variants">
+</div>
 
 ## Objective
 - The core idea is to accelerate word searches by distributing them across a triplet of BSTs (BST1, BST2, BST3) based on the initial character of each word. Each tree uses specific rotation strategies to optimize node placement:
