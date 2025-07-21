@@ -13,7 +13,7 @@ This project explores the optimization of word search operations through customi
 </div>
 
 <div align="center">
-  <img src="demo.gif">
+  <img src="Resources/demo.gif">
 </div>
 
 ## Objective
